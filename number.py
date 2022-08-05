@@ -1,0 +1,1 @@
+number = "+90<phonenumber>" # Enter your phone number, starting with the phone code of your country. Default => Turkey
